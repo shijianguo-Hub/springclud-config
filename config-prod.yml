@@ -1,1 +1,3 @@
-
+  
+config:
+  info: "dev branch,springclud-config/config-prod.yml version=1"
